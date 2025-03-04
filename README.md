@@ -16,6 +16,7 @@ Built on a secure and scalable blockchain platform, Socifi ensures transparency,
 
 ```bash
 npm install
+# npm 9.6.4
 ```
 
 ### Run project
